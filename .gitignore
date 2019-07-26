@@ -1,0 +1,6 @@
+/.idea
+/.env
+/etc/solr/config/configsets/*
+/log/
+/data/
+!/etc/solr/config/configsets/here_put_solr_config.md
